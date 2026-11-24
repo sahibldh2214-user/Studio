@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VaultTV</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_clouds">Clouds</string>
+    <string name="nav_network">Network</string>
+    <string name="nav_transfer">PC Transfer</string>
+    <string name="studio_title">All-in-One Media &amp; PDF Studio</string>
+    <string name="pc_transfer_title">PC to TV Wi-Fi Transfer</string>
+    <string name="cloud_hub_title">Cloud Drive Hub</string>
+    <string name="network_hub_title">Network &amp; LAN Shares</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "VaultTV",
+  "description": "File manager, all-in-one video/music/PDF studio, multi-cloud hub, LAN network browser, and PC-to-TV Wi-Fi transfer for Google TV 14 and Android 14.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
